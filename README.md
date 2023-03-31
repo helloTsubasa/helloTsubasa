@@ -1,17 +1,7 @@
-- 👋 Hi, I’m @helloTsubasa
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning Ruby on Rails and Vue.js
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=helloTsubasa&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helloTsubasa&layout=compact&hide=html,css" />
+</a>
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=helloTsubasa&show_icons=true&count_private=true)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=helloTsubasa)&hide=html,css
-
-<!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-
-<!---
-helloTsubasa/helloTsubasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
