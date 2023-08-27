@@ -1,10 +1,8 @@
 <p>Hello there👋</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=helloTsubasa&count_private=true&show_icons=true" />
-</a>
+[![helloTsubasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloTsubasa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloTsubasa)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=helloTsubasa&count_private=true&layout=compact&langs_count=12&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
 
