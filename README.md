@@ -1,9 +1,7 @@
 <p>Hello there👋</p>
 
 [![helloTsubasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=helloTsubasa)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloTsubasa)](https://github.com/helloTsubasa/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helloTsubasa)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
 
